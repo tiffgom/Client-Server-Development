@@ -1,4 +1,4 @@
-![alt text](https://github.com/tiffgom/Comp-Graphic-and-Visualization/blob/main/resources/3D%20scene%20screenshot.jpg?raw=true)
+![alt text](https://github.com/tiffgom/Client-Server-Development/blob/main/resources/3D%20scene%20screenshot.jpg?raw=true)
 ![video](https://youtu.be/IjTbbHFKD8c)
 ### [Demo](https://youtu.be/IjTbbHFKD8c)
 
