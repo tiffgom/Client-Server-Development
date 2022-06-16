@@ -1,5 +1,5 @@
-![alt text](https://github.com/tiffgom/Client-Server-Development/blob/main/DASH%20LOGO.jpg?raw=true)
-![video](https://youtu.be/IjTbbHFKD8c)
+
+[![IMAGE ALT TEXT](https://github.com/tiffgom/Client-Server-Development/blob/main/DASH%20LOGO.jpg)](https://youtu.be/IjTbbHFKD8c "Dashboard Screencast")
 
 
 # Client-Server-Development #
